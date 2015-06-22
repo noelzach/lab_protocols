@@ -5,7 +5,7 @@
 
 ##Protocols
 
-1. [Fungicide Sensitivity Test](/fungicide_sensitivity.html)
+1. [Fungicide Sensitivity Test](/lab_protocols/fungicide_sensitivity.html)
 
 
 </xmp>
