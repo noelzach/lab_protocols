@@ -1,7 +1,7 @@
 
 ##Fungicide Sensitivity Determination For *Fusarium* species using poison plate method
 
-Prepared by: Jie Wang
+Prepared by: Jie Wang  
 Version: 0.1 (June 19 2015)
 
 ###Background
@@ -36,15 +36,30 @@ Version: 0.1 (June 19 2015)
   - Transfer 13 *Fusarium* spp. isolates from slants to 1/2 strength PDA media
   - The most active growing point of Fungi is on the margin of the colony,
     where fungal hyphal tip is.  
-  - Colony cutting diagram ![Colony cutting](/img/Colony_Cubes.png)
+  - Colony cutting diagram (Figure 1)  
+  ![Colony cutting](/img/Colony_Cubes.png)
   - Place the cutting cubes upside down on a new 1/2 PDA media
-  - incubate the *Fusarium* culture for 
+  - incubate the *Fusarium* colony at 25ºC for 10 d in the dark
+4. Scan
+
 
 ###Procedures
+1. [Day1] Make 7 L of 1/2 stength PDA media amended with 1 mL corresponding fungicide
+   stock solutions, and pour media into 9-cM petri dishes. Normally, 1 L of 1/2
+   PDA media should fit with 40 petri dishes (2 bags). Let the petri dish plates
+   air dry in the laminar flow hood overnight to dry the condensation water
+2. [Day2] Cut *Fusarium* colony from the margin of the colony (Figure 1), and transfer
+   upside down on a new 1/2 strength PDA media. Wrap the plate with parafilm and
+   incubate the culture at 25ºC in a incubator. While incubating in the incubator,
+   plates are placed upside down to avoid condensation water on the lids
+3. [Day4] Scan plates from the bottom of the plates to measure the fungal colony
+   to measure fungal colony growth area
 
-
+3. Scan background color: dark blue (Hex-color code: #22365A)
 
 
 ###Data Analysis
+
+
 
 ###References
