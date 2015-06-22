@@ -2,13 +2,13 @@
 ##Fungicide Sensitivity Determination For *Fusarium* species using poison plate method
 
 Prepared by: Jie Wang  
-Version: 0.1 (June 19 2015)
+Version: 0.1 (June 19 2015)  
 
 ###Background
-- Testing species: *Fusarium* species causing sudden death syndrome or bean
+- *Fusarium* species causing sudden death syndrome or bean
     root rot symptoms on soybean and drybeans
 - Fungicide seed treatment became an effective mean of disease management
-    strategy with a particular interest of fluopyram (Brandname: ILeVo)
+    strategy for SDS, especially with the fungicide fluopyram (Brandname: [ILeVo](https://www.bayercropscience.us/products/seedgrowth/ilevo))
 - *in vitro* efficacy of fluopyram on *Fusarium* species is still not clear
 - Fluopyram is a Succinate Dehydrogenase Inhibitor (SDHI) fungicide widely used
     in agriculture and horticulture
@@ -21,7 +21,7 @@ Version: 0.1 (June 19 2015)
   - [**Luna Privilege** Label](http://www.agrian.com/pdfs/Luna_Privilege_Label2.pdf)
     Active ingredient: Fluopyram (41.5%)
   - Stock solution concentrations: **0, 0.5, 1, 3, 5, 7, 10, and 50 mg/mL**
-  - Detailed dilution protocol: NEED TO FILL THIS PART!!!!
+  - Detailed dilution protocol: See attached [excel spreadsheet](/docs/fluopyram_stock_calculation.xlsx)
 2. Media Preparation (Hands-on time: 2 hr, wait time: 2 hr)
   - 1/2 strength Potato Dextrose Agar (PDA)
   - Recipe ingredients include: 12 g of Potato dextrose broth, 15 g of agar,
@@ -48,7 +48,7 @@ Version: 0.1 (June 19 2015)
     Use underscore (" _ ") only.
   - For example: ARLE_C1_5_1ppm.jpg, ARLE_C1_50_10ppm.jpg, ARLE_C1_200_100ppm.jpg,
     and ARLE_C1_ck.jpg.
-  - Background color for scanning plates is dark blue (Hex-color code: #22365A)
+  - Background color for scanning plates is dark blue (Hex-color code: #1E2E4D)
 
 
 ###Procedures
@@ -72,8 +72,16 @@ Note: Detailed procedures refer to the supplies and preparation step
    after transferring. Make sure data are all properly collected and autoclave petri
    dish and dispose biohazardous materials.
 
-###Data Analysis
-
-
+###Data Analysis  
+1. All images were analyzed in APS Assess v2.0 using the manual panel and setting
+   the HSV color space to select the colony using hue value between 0 and 195 with
+   the dark blue background (hex color code:#1E2E4D).
+2. Relative mycelial growth rate was calculated by subtracting the 3 DAI colony
+   area from the 10 DAI colony area and divided by seven days to get the colony
+   area increase per day.
+3. The effective concentration to reduce growth by 50% (EC50[ subscript]) for
+   each isolate was calculated by fit the mycelia relative growth rate against
+   the fungicide concentrations using a 4-parameter log-logistic model
+   with [**drc** v2.5](http://cran.r-project.org/web/packages/drc/index.html)
 
 ###References
