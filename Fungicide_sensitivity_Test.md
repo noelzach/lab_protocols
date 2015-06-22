@@ -5,8 +5,8 @@
 
 ##Fungicide Sensitivity Determination For *Fusarium* species using poison plate method
 
-Prepared by: Jie Wang  
-Version: 0.1 (June 19 2015)  
+Prepared by: Jie Wang
+Version: 0.1 (June 19 2015)
 
 ###Background
 - *Fusarium* species causing sudden death syndrome or bean
@@ -21,12 +21,12 @@ Version: 0.1 (June 19 2015)
     against *Fusarium* species.
 
 ###Supplies and Preparation
-1. Prepare fungicide stock solutions (Hands-on time: 1 hr)  
+1. Prepare fungicide stock solutions (Hands-on time: 1 hr)
   - Determine active ingredient according to fungicide label
   - [**Luna Privilege** Label](http://www.agrian.com/pdfs/Luna_Privilege_Label2.pdf)
     Active ingredient: Fluopyram (41.5%)
   - Stock solution concentrations: **0, 0.5, 1, 3, 5, 7, 10, and 50 mg/mL**
-  - Detailed dilution protocol: See attached [excel spreadsheet](/docs/fluopyram_stock_calculation.xlsx)
+  - Detailed dilution protocol: See attached [excel spreadsheet](/lab_protocols/docs/fluopyram_stock_calculation.xlsx)
 2. Media Preparation (Hands-on time: 2 hr, wait time: 2 hr)
   - 1/2 strength Potato Dextrose Agar (PDA)
   - Recipe ingredients include: 12 g of Potato dextrose broth, 15 g of agar,
@@ -41,9 +41,9 @@ Version: 0.1 (June 19 2015)
 3. *Fusarium* isolate transfer (Hands-on time: 1 hr, wait time: 10 d)
   - Transfer 13 *Fusarium* spp. isolates from slants to 1/2 strength PDA media
   - The most active growing point of Fungi is on the margin of the colony,
-    where fungal hyphal tip is.  
-  - Colony cutting diagram (Figure 1)  
-  ![Colony cutting](/img/Colony_Cubes.png)
+    where fungal hyphal tip is.
+  - Colony cutting diagram (Figure 1)
+  ![Colony cutting](/lab_protocols/img/Colony_Cubes.png)
   - Place the cutting cubes upside down on a new 1/2 PDA media
   - incubate the *Fusarium* colony at 25ºC for 10 d in the dark
 4. Scanning protocol (Hands-on time: 40 min)
@@ -58,7 +58,7 @@ Version: 0.1 (June 19 2015)
 
 ###Procedures
 
-Note: Detailed procedures refer to the supplies and preparation step  
+Note: Detailed procedures refer to the supplies and preparation step
 
 1. [**Day1**] Make 7 L of 1/2 stength PDA media amended with 1 mL corresponding fungicide
    stock solutions, and pour media into 9-cM petri dishes. Normally, 1 L of 1/2
@@ -77,7 +77,7 @@ Note: Detailed procedures refer to the supplies and preparation step
    after transferring. Make sure data are all properly collected and autoclave petri
    dish and dispose biohazardous materials.
 
-###Data Analysis  
+###Data Analysis
 1. All images were analyzed in APS Assess v2.0 using the manual panel and setting
    the HSV color space to select the colony using hue value between 0 and 195 with
    the dark blue background (hex color code:#1E2E4D).
