@@ -8,7 +8,8 @@ Version: 0.1 (June 19 2015)
 - *Fusarium* species causing sudden death syndrome or bean
     root rot symptoms on soybean and drybeans
 - Fungicide seed treatment became an effective mean of disease management
-    strategy for SDS, especially with the fungicide fluopyram (Brandname: [ILeVo](https://www.bayercropscience.us/products/seedgrowth/ilevo))
+  strategy for SDS, especially with the fungicide fluopyram (Brandname:
+  [ILeVo](https://www.bayercropscience.us/products/seedgrowth/ilevo))
 - *in vitro* efficacy of fluopyram on *Fusarium* species is still not clear
 - Fluopyram is a Succinate Dehydrogenase Inhibitor (SDHI) fungicide widely used
     in agriculture and horticulture
@@ -33,7 +34,7 @@ Version: 0.1 (June 19 2015)
   - When autoclaved media cool down to 55ºC, add 1 mL of fungicide stock solution
     into corresponding media flask and homogenize for 30 s with the magnetic
     bar already in the flask
-3. *Fusarium* isolate transfer (Hands-on time: 1 hr, waite time: 10 d)
+3. *Fusarium* isolate transfer (Hands-on time: 1 hr, wait time: 10 d)
   - Transfer 13 *Fusarium* spp. isolates from slants to 1/2 strength PDA media
   - The most active growing point of Fungi is on the margin of the colony,
     where fungal hyphal tip is.  
