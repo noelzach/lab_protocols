@@ -56,20 +56,20 @@ Version: 0.1 (June 19 2015)
 
 Note: Detailed procedures refer to the supplies and preparation step  
 
-1. **Day1** Make 7 L of 1/2 stength PDA media amended with 1 mL corresponding fungicide
+1. [**Day1**] Make 7 L of 1/2 stength PDA media amended with 1 mL corresponding fungicide
    stock solutions, and pour media into 9-cM petri dishes. Normally, 1 L of 1/2
    PDA media should fit with 40 petri dishes (2 bags). Let the petri dish plates
    air dry in the laminar flow hood overnight to dry the condensation water
 
-2. **Day2** Cut *Fusarium* colony from the margin of the colony (Figure 1), and transfer
+2. [**Day2**] Cut *Fusarium* colony from the margin of the colony (Figure 1), and transfer
    upside down on a new 1/2 strength PDA media. Wrap the plate with parafilm and
    incubate the culture at 25ºC in a incubator. While incubating in the incubator,
    plates are placed upside down to avoid condensation water on the lids
 
-3. **Day4** Scan plates from the bottom of the plates to measure the fungal colony
+3. [**Day4**] Scan plates from the bottom of the plates to measure the fungal colony
    to measure fungal colony growth area
 
-4. **Day11** Scan plates to obtain the final area of *Fusarium* colony 10 days
+4. [**Day11**] Scan plates to obtain the final area of *Fusarium* colony 10 days
    after transferring. Make sure data are all properly collected and autoclave petri
    dish and dispose biohazardous materials.
 
