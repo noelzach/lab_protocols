@@ -47,7 +47,7 @@ Version: 0.3 (July 7 2015)
     the margin of the colony
   - Colony cutting diagram (Figure 1)
 
-  ![Colony cutting](/img/Colony_Cubes.png)
+  ![Colony cutting](/lab_protocols/img/Colony_Cubes.png)
 
   Cut the colony from the margin of the colony and transfer the small individual
   cubes to the new 1/2 strength PDA plates. The size of transferred plugs is
@@ -161,7 +161,7 @@ indicates the amount of water needed for the dilutions. Below is a diagram show
 the process of how to make stock concentrations.
 
 
-  ![Fungicide stock preparation](/img/Fungicide_stock_prep.png)
+  ![Fungicide stock preparation](/lab_protocols/img/Fungicide_stock_prep.png)
 
 
 - NOTE: This protocol was validated with *F. virguliforme* and a few closely related
