@@ -47,7 +47,7 @@ Version: 0.3 (July 7 2015)
     the margin of the colony
   - Colony cutting diagram (Figure 1)
 
-  ![Colony cutting](/lab_protocols/img/Colony_Cubes.png)
+<img src="/lab_protocols/img/Colony_Cubes.png" alt="Colony cutting" align="middle">
 
   Cut the colony from the margin of the colony and transfer the small individual
   cubes to the new 1/2 strength PDA plates. The size of transferred plugs is
