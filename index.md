@@ -5,7 +5,7 @@
 
 ##Protocols
 
-1. [Fungicide poison plate assay protocol](/lab_protocols/fungicide_sensitivity.html)
+1. [Fungicide poison plate assay protocol](/lab_protocols/Fungicide_sensitivity_protocol.html)
 2. [Fungicide sentivity data analysis](/lab_protocols/Fungicide_sensitivity_drc.html)
 
 </xmp>
