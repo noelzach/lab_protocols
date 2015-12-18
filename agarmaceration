@@ -1,0 +1,62 @@
+Title: 96 well fungicide sensitivity assay 
+
+Objective: The objective of this protocol is to provide instruction on how to macerate agar containing a colony of Pythium or Phytophthora from a petri dish and inoculate a 96 well plate containing fungicide of choice. This protocol describes the procedure for 1 isolate. In an actual experiment you 30 isolates can be run. 
+
+Part 1: PCA
+
+1.	Make 1L of ¼ strength PCA at 0.5% agar (25ml clarified PCA concentrate, 5g agar) 
+    a.	Centrifuge 25mL of filtered PCA concentrate at 2,000rpm for 10minutes at 10ºC. 
+    b.	Pour just the liquid, being careful not to include the pellet, into 975mL of water and 5g agar powder.  The idea is to have the media be very clear, but enough nutrients so the cultures do not grow like they would on water agar. 
+    c.	Autoclave for at least 30 minutes and pour this media when cooled to 50ºC. It is a good idea to pour the plates a little thicker than usual, to ensure you get enough material when you are macerating. 
+    d.	This media can be stored for as long as you need. STOP POINT.
+2.	Inoculate these plates with a plug of your isolate of choice and let it grow for 2-5 days. 
+
+Part 2: PCA maceration. 
+
+1.	Take the plunger out of a 10mL syringe and place it plunger side up so the black plastic plunger part does not come in contact with the bench top. 
+2.  Place the other half of the syringe (still in the wrapper so it is sterile) into some sort of holder or rack so you can place the plugs into the top. 
+3.	Make at least 5 or 6 plugs from the growing edge of a colony with #12 brass cork borer (16mm). 
+    a.	HELPFUL HINT: use forceps to hold the cork borer while you dip it in ethanol and flame it. If not, you will burn your hand, and brass conducts heat very well, so the cork borer will be hot!
+4.	Using a spatula, scoop out the plugs and load them into the top of the 10mL syringe. 
+5.	Screw a 20G1/2 needle onto the syringe before putting the plunger back into the syringe. 
+6.	With the plugs in the syringe and the syringe assembled with the needle, macerate the agar plugs by squeezing them through the needle into a 15mL eppendorf tube labeled with the respective isolate. 
+7.	Vortex the macerated agar for at least 10 seconds on high and bang the tube on the bench top. This serves two purposes. 1) you want to try to get all the air bubbles out of the macerated agar (makes it easier to pipet). 2) Zoospores that have may have formed in the culture should encyst and get ready to germinate and produce mycelia. 
+8.	Use the macerated agar as quick as possible, the longest I’ve let them sit is overnight and I did not like doing it because the growth became inconsistent. 
+
+Part 3: Loading 96 well
+
+1.	Pipette 3ml of the macerated agar containing your mycelial-bits into one well of a 12-well or 8-well reservoir using wide orifice tips. 
+    a. Repeat this for the rest of your isolates. 
+    b. Do this in some sort of random order so they will be randomly arranged in the 96 well plate. 
+2.	Set up the 96 well plates such that they are pre-loaded with clarified ½ strength V8 broth ammeded with fungicide at the concentration you desire. 
+    a.	For 30 isolates you I like to have 1 96 well plate per fungicide concentration. 
+3.	Load 200 μl of V8 fungicide broth into each well of a 350 μl 96 well plate (Costar® 3628).
+4.	Load 50 μl of the macerated agar into each well using wide orifice tips.
+    a. Change tips even when pipetting the same isolate. The macerated agar can stick to the outside of the pipette tips and you may inoculate each well with more agar than desired. 
+    b.	Yes, unfortunately you will go through a bunch of tips. 
+5.	Load wells in triplicate as shown below. 
+
+Isolate
+1	1	1	9	  9	 9	17	17	17	25	25	25
+2	2	2	10	10	10	18	18	18	26	26	26
+3	3	3	11	11	11	19	19	19	27	27	27
+4	4	4	12	12	12	20	20	20	28	28	28
+5	5	5	13	13	13	21	21	21	29	29	29
+6	6	6	14	14	14	22	22	22	30	30	30
+7	7	7	15	15	15	23	23	23	Blank	Blank	Blank
+8	8	8	16	16	16	24	24	24	NTC	NTC	NTC
+
+6.	The Blank well is a well that contains macerated agar without anything growing on it. 
+7.	The NTC is a well with just V8 broth
+8.	Once everything is set up, put the plates in a plastic tub with a beaker full of DI water and wrap all the plates in tinfoil
+    a. this ensures even incubation across all plates and keeps the humidity high so the plates will not dry out. 
+9.	Then put the plastic tub containing the plates in the incubator at your temperature of choice. 
+10.	Let them grow for 24-48 hours. 
+
+STOP POINT: you can come back to the plates the next day, but they are time sensitive so plan accordingly. 
+
+Part 4. Measuring Plates-follow the protocol on how to measure plates
+
+1.	Measure the plates at 600nm. With the Tecan with the orbital shaker setting set to low speed shake for 10 seconds. 
+2.	Subtract the mean absorbance value you get from the Blank wells before doing any analysis. 
+3.	calculate the EC50 by running these data through package DRC in R (separate protocol)
